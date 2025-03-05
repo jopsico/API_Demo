@@ -63,7 +63,11 @@ URL: https://www.postman.com/downloads/
 ## Endpoints da API
 
 - **POST /categorias** - Criar uma nova categoria.
+  ![Post](https://github.com/user-attachments/assets/4fb28e3f-8367-47a0-9459-f8599a5ef113)
 - **GET /categorias/{id}** - Buscar categoria por ID.
 - **GET /categorias** - Listar todas as categorias.
+   ![Get](https://github.com/user-attachments/assets/c4d53e7a-61d6-41d9-84bd-73266a1f4833)
 - **PUT /categorias/{id}** - Atualizar uma categoria existente.
+  ![Put](https://github.com/user-attachments/assets/2383fb70-094b-46fe-b4a2-fe55047f997c)
 - **DELETE /categorias/{id}** - Deletar uma categoria.
+  ![Delete](https://github.com/user-attachments/assets/81348edf-7223-4482-9bc7-976bbd08464b)
